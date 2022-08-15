@@ -11,7 +11,7 @@ const naicolQui = {
 ```
 ### More about me
 
-- 🔭 I’m currently working on some web pages for a familly bussines
+- 🔭 I’m currently working on some web pages for a familly bussines and also on my personal portfolio
 - 🌱 I’m currently learning about Data Structures and TypeScript
 - 👯 I’m looking to collaborate on React projects and Basic Web Dev stuff
 - 🤔 I’m currently a Chemical Engineering student
