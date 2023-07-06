@@ -5,7 +5,7 @@ My name is Nicole, I am a Full-stack developer and UX designer from Argentina.
 ```javascript
 const naicolQui = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS],
+  code: [Javascript, Typescript, HTML, CSS, SAP Fiori, SAP HANA],
   tools: [React, Redux, Node, Context, Bootstrap, Material-UI, Styled-Components],
 }
 ```
